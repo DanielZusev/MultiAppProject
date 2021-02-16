@@ -1,0 +1,4 @@
+include ':customer'
+include ':common'
+include ':garage'
+rootProject.name = "MultiAppProject"

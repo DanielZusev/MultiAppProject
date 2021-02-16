@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MultiAppProject</string>
+    <string name="cars">Cars:</string>
+    <string name="garage_name">Garage name:</string>
+    <string name="garage_address">Garage Address:</string>
+    <string name="open">Open:</string>
+    <string name="usage_time">Usage Time:</string>
+</resources>
